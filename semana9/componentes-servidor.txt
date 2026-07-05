@@ -1,0 +1,21 @@
+Sistema operativo: Es el software principal que controla el funcionamiento del computador.
+Se encarga de administrar el hardware, ejecutar programas y permitir que el usuario
+ interactúe con el equipo. Algunos ejemplos son Windows, Linux y macOS.
+
+Node.js: Es un entorno de ejecución que permite ejecutar código JavaScript fuera del 
+navegador. Se utiliza principalmente para desarrollar aplicaciones del lado del servidor,
+como páginas web, APIs y servicios que procesan y responden a las solicitudes de los usuarios.
+
+Aplicación server.js: Es el archivo principal de un proyecto con Node.js y Express. En este
+archivo se crea y configura el servidor, se definen las rutas que atenderán las solicitudes
+de los usuarios y se indica el puerto en el que la aplicación estará disponible.
+
+Puerto: Es un número que identifica el punto de acceso por el que una aplicación recibe
+conexiones. Cuando un servidor se ejecuta, escucha un puerto específico, como el 3000, para
+que los usuarios puedan acceder a él desde un navegador mediante una dirección 
+como http://localhost:3000.
+
+Logs: Son los mensajes que genera una aplicación mientras está en funcionamiento.
+Se muestran normalmente en la consola y sirven para informar eventos importantes, como el
+inicio del servidor, las solicitudes recibidas, advertencias o errores, lo que facilita el 
+monitoreo y la solución de problemas.
